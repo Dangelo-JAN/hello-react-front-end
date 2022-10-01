@@ -32,7 +32,8 @@ Use on your terminal: npm install
 ### Usage
 
 - Get the API server running
-- Use on your terminal: npx run build 
+- Use on your terminal: npm run start
+- Type y (yes) to run on another port
 
 ## Authors
 
