@@ -1,6 +1,6 @@
 // Action Types
-const GET = 'my-vew-rails-app/greetings/GET';
-const baseURL = 'localhost:3000/greetings';
+const GET = 'hello-rails-back-end/greetings/GET';
+const baseURL = 'http://localhost:3000/greetings';
 const initialState = [];
 
 // Reducer
