@@ -10,6 +10,9 @@
 - React
 - Redux
 
+## Hello React Front-end
+
+[Link to Repo](https://github.com/Dangelo-JAN/hello-rails-back-end)
 
 ## Getting Started
 
